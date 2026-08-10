@@ -1,19 +1,3 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://static2.klipy.com/ii/71b2873e478b9d8d0482ea3ec777ba7f/d7/09/dp3CoAdD.gif"  />
-</div>
-
-###
-
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-</div>
-
-###
-
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=pg5r.pg5r&"  />
-</div>
 
 ###
 
