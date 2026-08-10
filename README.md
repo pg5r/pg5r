@@ -43,6 +43,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.simpleicons.org/burpsuite" height="40" alt="Burp Suite logo" />
+  <img src="https://cdn.simpleicons.org/ghidra" height="40" alt="Ghidra logo" />
+  
 </div>
 
 ###
