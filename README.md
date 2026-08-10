@@ -44,7 +44,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img src="https://cdn.simpleicons.org/burpsuite" height="40" alt="Burp Suite logo" />
-  <img src="https://cdn.simpleicons.org/ghidra" height="40" alt="Ghidra logo" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIczJsw1tLagwKuIr6ME2YAJTFvqVk5veBT5G6I62Yg&amp;s=10" height="40" alt="Ghidra logo" />
   
 </div>
 
