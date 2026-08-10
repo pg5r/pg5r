@@ -5,7 +5,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">Software Engineer & Web Penteration Tester who likes:</h3>
+<h3 data-importer="text" align="left">Software Engineer & Bug Bounty Hunter who likes:</h3>
 
 ###
 
